@@ -80,6 +80,11 @@
                 Update you name please
             </label>
       i      <br>
+       <label for="">
+                Updated CIandCD Ppeline
+            </label>
+      i      <br>
+
             <input type="text" name="" id="">
             <br>
             <label for="">
