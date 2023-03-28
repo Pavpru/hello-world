@@ -77,7 +77,7 @@
         </h2>
         <form action="" method="post" class="login">
             <label for="">
-                Update you name please
+                Name Enter please
             </label>
       i      <br>
        <label for="">
