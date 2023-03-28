@@ -79,11 +79,7 @@
             <label for="">
                 Name Enter please correctly
             </label>
-      i      <br>
-       <label for="">
-                Updated CIandCD Ppeline
-            </label>
-      i      <br>
+            <br>
 
             <input type="text" name="" id="">
             <br>
